@@ -24,7 +24,7 @@ global.APIKeys = {
 };
 
 module.exports = {
-    WARN_COUNT: 3,
+    WARN_COUNT: 2,
     APIs: global.APIs,
     APIKeys: global.APIKeys
 };
